@@ -1,0 +1,6 @@
+owner=284984521768697856
+prefix=mtl
+game=هنا الحلا
+stayinchannel=true
+songinstatus=false
+token=NTcwMzcxNjM0MDYyNjg4Mjc2.XdNA3A.4Ta7-S4zaM7tB98QAd8F9kXizls
