@@ -3,4 +3,4 @@ prefix=mtl
 game=MTLPLAY
 stayinchannel=true
 songinstatus=false
-token=NDM5MzA1OTI1NDUxMzE3MjU4.XdN9Hw.3I3IOXciu-mMIypB5vjdqXyGGDs
+token=NTcwMzcxNjM0MDYyNjg4Mjc2.XdYNAg.i5o4H3rItdupThvOsO0mmzf9_0M
